@@ -19,4 +19,3 @@ services:
       - DATABASE=postgres
       - VIRTUAL_HOST=ec2-54-145-155-219.compute-1.amazonaws.com
       - VIRTUAL_PORT=8000
-  
